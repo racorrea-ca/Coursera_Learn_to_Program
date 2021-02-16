@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Safari</string>
+		<key>Paths</key>
+		<array>
+			<dict>
+				<key>/Users/rc/Library/Internet Plug-Ins</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Safari/PlugInOrigins.plist</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Safari/Extensions</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Cookies</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Caches/com.apple.Safari/Webpage Previews</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Caches/com.apple.Safari</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Caches/com.apple.WebKit.PluginProcess</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Google Chrome</string>
+		<key>Paths</key>
+		<array>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Google/Chrome/Default/Sync Extension Settings</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Google/Chrome/Default/Secure Preferences</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Google/Chrome/Default/Local Extension Settings</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Google/Chrome/Default/Extension State</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Google/Chrome/Default/Extensions</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Google/Chrome/Default/Extension Cookies-journal</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Google/Chrome/Default/Extension Cookies</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Google/Chrome/Default/Cookies-journal</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Google/Chrome/Default/Cookies</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Google/Chrome/Default/Application Cache</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Google/GoogleSoftwareUpdate</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Caches/com.google.Chrome.helper.EH</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Firefox</string>
+		<key>Paths</key>
+		<array>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Firefox/Profiles/0pdz1dcf.default-release/cookies.sqlite-wal</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Firefox/Profiles/stv1dsm4.default/cookies.sqlite</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Firefox/Profiles/0pdz1dcf.default-release/cookies.sqlite</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Firefox/Profiles/0pdz1dcf.default-release/cookies.sqlite-shm</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Caches/Firefox/Profiles</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Firefox/Profiles/0pdz1dcf.default-release/addons.json</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Firefox/Profiles/0pdz1dcf.default-release/extensions</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Firefox/Profiles/0pdz1dcf.default-release/extensions.json</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Firefox/Profiles/0pdz1dcf.default-release/pluginreg.dat</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>/Users/rc/Library/Application Support/Mozilla/Extensions</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
